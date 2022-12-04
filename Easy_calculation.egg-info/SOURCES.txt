@@ -1,0 +1,8 @@
+LICENSE
+Setup.py
+setup.py
+Easy_calculation.egg-info/PKG-INFO
+Easy_calculation.egg-info/SOURCES.txt
+Easy_calculation.egg-info/dependency_links.txt
+Easy_calculation.egg-info/top_level.txt
+PythonPKG/__init__.py

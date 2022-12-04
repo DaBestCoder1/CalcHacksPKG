@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Easy-calculation
+Version: 1.0.0
+Summary: To help calculate integers and numbers
+Author: DaBestCoder1
+Author-email: namishreddy01@gmail.com
+Classifier: Programming language :: Python :: 3
+Classifier: License :: OSI approved :: MIT License
+Classifier: Operating System :: OS Independant
+License-File: LICENSE
